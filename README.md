@@ -1,0 +1,13 @@
+-Custom button:
+  -Button size:74
+  -Align to edge of taskbar[x]
+
+-Custom Taskbar
+  -Glass[x]
+  -Taskbar Opacity:60
+  -Taskbar Color:50E4AD
+  -Taskbar Text Color: FFFFFF
+  -Horizontal Stretching:
+    -Tile[x]
+  -Vertical Stretching:
+    -Tile[x]
